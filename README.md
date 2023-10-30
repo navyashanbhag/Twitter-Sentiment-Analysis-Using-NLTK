@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis-Using-NLTK
-NLP Twitter sentiment Analysis model which will help us to classify the emotions in tweets. In this project, I have used NLTK library for text preprocessing and Implemented this using Logistic Regression and SVM model.
+Twitter sentiment Analysis model which will help us to classify the emotions in tweets. In this project, I have used NLTK library for text preprocessing and Implemented this using Logistic Regression and SVM model.
 Dataset link for this project : https://www.kaggle.com/datasets/kazanova/sentiment140
 Steps involved in this Project are:
 1) Import Necessary libraries
